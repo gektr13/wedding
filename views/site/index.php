@@ -345,7 +345,7 @@
             var csrfToken = document.querySelector('meta[name="csrf-token"]').getAttribute('content');
             formData.append(csrfParam, csrfToken);
 
-            fetch('/index', {
+            fetch('/', {
                 method: 'POST',
                 body: formData,
             })
@@ -359,6 +359,26 @@
                 }
             })
             .catch(() => alert('Ошибка при отправке формы.'));
+        });
+
+        // --- Hover preview для слайдера ---
+        const preview = document.getElementById('slider-hover-preview');
+        const sliderImages = document.querySelectorAll('.slider-img');
+        sliderImages.forEach(img => {
+            img.addEventListener('mouseenter', function() {
+                preview.style.display = 'none'; // Скрываем превью
+                preview.src = '';
+                const tempImg = new Image();
+                tempImg.onload = function() {
+                    preview.src = tempImg.src;
+                    preview.style.display = 'block';
+                };
+                tempImg.src = img.src;
+            });
+            img.addEventListener('mouseleave', function() {
+                preview.style.display = 'none';
+                preview.src = '';
+            });
         });
     });
 </script>
