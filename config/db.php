@@ -2,9 +2,9 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=MariaDB-10.3;dbname=wed',
-    'username' => 'root',
-    'password' => '',
+    'dsn' => 'mysql:host=localhost;dbname=landing_db',
+    'username' => 'landing_user',
+    'password' => 'ваш_сильный_пароль',
     'charset' => 'utf8',
 
     // Schema cache options (for production environment)
