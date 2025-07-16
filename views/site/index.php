@@ -184,21 +184,21 @@
             <label style="display:block; margin-bottom: 10px; font-size: 26px;">Какой алкоголь Вы предпочитаете?</label>
             <div style="font-size:20px; color:#888; margin-bottom:10px;">Можно выбрать несколько вариантов ответа</div>
             <div style="margin-bottom:30px;">
-                <label style="display:block; margin-bottom:12px; font-size:22px;"><input type="checkbox" name="alco"
+                <label style="display:block; margin-bottom:12px; font-size:22px;"><input type="checkbox" name="alco[]"
                                                                                          value="Вино белое"> Вино белое</label>
-                <label style="display:block; margin-bottom:12px; font-size:22px;"><input type="checkbox" name="alco"
+                <label style="display:block; margin-bottom:12px; font-size:22px;"><input type="checkbox" name="alco[]"
                                                                                          value="Вино красное"> Вино
                     красное</label>
-                <label style="display:block; margin-bottom:12px; font-size:22px;"><input type="checkbox" name="alco"
+                <label style="display:block; margin-bottom:12px; font-size:22px;"><input type="checkbox" name="alco[]"
                                                                                          value="Игристое">
                     Игристое</label>
-                <label style="display:block; margin-bottom:12px; font-size:22px;"><input type="checkbox" name="alco"
+                <label style="display:block; margin-bottom:12px; font-size:22px;"><input type="checkbox" name="alco[]"
                                                                                          value="Коньяк"> Коньяк</label>
-                <label style="display:block; margin-bottom:12px; font-size:22px;"><input type="checkbox" name="alco"
+                <label style="display:block; margin-bottom:12px; font-size:22px;"><input type="checkbox" name="alco[]"
                                                                                          value="Водка"> Водка</label>
-                <label style="display:block; margin-bottom:12px; font-size:22px;"><input type="checkbox" name="alco"
+                <label style="display:block; margin-bottom:12px; font-size:22px;"><input type="checkbox" name="alco[]"
                                                                                          value="Виски"> Виски</label>
-                <label style="display:block; margin-bottom:12px; font-size:22px;"><input type="checkbox" name="alco"
+                <label style="display:block; margin-bottom:12px; font-size:22px;"><input type="checkbox" name="alco[]"
                                                                                          value="Воздержусь"> Воздержусь</label>
             </div>
             <div style="text-align:center;">
