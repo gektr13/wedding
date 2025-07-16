@@ -284,8 +284,6 @@
         </div>
 
         <p class="final-invite-text" style="text-align: center; max-width: 1000px; margin: 100px auto 40px auto; font-size: 30px; color: #6b7a89; background-color: #rgba(241, 78, 149, 0);;">
-            Дорогие гости!
-<br>
             Для нас важно, чтобы этот день
             запомнился тёплыми моментами,
             искренними улыбками и душевным
