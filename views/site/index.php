@@ -282,6 +282,20 @@
                 <div id="seconds-label" style="font-size: 20px; color: #c79e67;">Секунд</div>
             </div>
         </div>
+
+        <p class="final-invite-text" style="text-align: center; max-width: 1000px; margin: 100px auto 40px auto; font-size: 30px; color: #6b7a89; background-color: #rgba(241, 78, 149, 0);;">
+            Дорогие гости!
+<br>
+            Для нас важно, чтобы этот день
+            запомнился тёплыми моментами,
+            искренними улыбками и душевным
+            праздником.
+            <br>
+            Мы сознательно отказались от
+            денежных конкурсов — хотим, чтобы
+            ничто не отвлекало нас от радости
+            общения с вами!</p>
+
         <div id="custom-slider" class="slider-container">
             <button id="slider-prev" class="slider-btn">&#60;</button>
             <div class="slider-viewport">
