@@ -300,8 +300,8 @@
                 <div id="slider-track" class="slider-track">
                     <img src="images/1.jpg" class="slider-img" alt="Фото 1">
                     <img src="images/2.jpg" class="slider-img" alt="Фото 2">
-                    <img src="images/3.jpg" class="slider-img" alt="Фото 3">
                     <img src="images/4.jpg" class="slider-img" alt="Фото 4">
+                    <img src="images/3.jpg" class="slider-img" alt="Фото 3">
                     <img src="images/5.jpg" class="slider-img" alt="Фото 5">
                     <img src="images/6.jpg" class="slider-img" alt="Фото 6">
                     <img src="images/7.jpg" class="slider-img" alt="Фото 7">
