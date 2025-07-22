@@ -193,8 +193,6 @@
                                                                                          value="Игристое">
                     Игристое</label>
                 <label style="display:block; margin-bottom:12px; font-size:22px;"><input type="checkbox" name="alco[]"
-                                                                                         value="Коньяк"> Коньяк</label>
-                <label style="display:block; margin-bottom:12px; font-size:22px;"><input type="checkbox" name="alco[]"
                                                                                          value="Водка"> Водка</label>
                 <label style="display:block; margin-bottom:12px; font-size:22px;"><input type="checkbox" name="alco[]"
                                                                                          value="Виски"> Виски</label>
